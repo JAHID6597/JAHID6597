@@ -1,11 +1,14 @@
-<h1 align=center>Hi 👋! I'm JAHID</h1>
+<h1 align=center>
+  Hi 👋! I'm JAHID
+</h1>
 
 ## Reach me at - [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width=25>](mailto:jahid6597@gmail.com)
 
 ## Connect With Me - <a href="https://www.facebook.com/Jahid6597/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" width=25></a> <a href="https://www.instagram.com/jahid5151"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" width=25></a> <a href="https://www.linkedin.com/in/jahid-hossain-594285177"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" width=25></a>
 
-![JAHID](https://github-readme-stats.vercel.app/api?username=jahid6597&show_icons=true&theme=radical)
-
+<p  align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=jahid6597&show_icons=true&theme=radical">
+</p>
 
 
 <!--
