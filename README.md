@@ -2,13 +2,6 @@
   Hi 👋! I'm JAHID
 </h1>
 
-<span class="color-text-primary ws-normal text-left">
-            Created 39
-            commits in
-            4
-            repositories
-          </span>
-
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width=40>](mailto:jahid6597@gmail.com)
 <a href="https://www.facebook.com/Jahid6597/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" width=40></a> 
 <a href="https://www.instagram.com/jahid5151"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" width=40></a> 
