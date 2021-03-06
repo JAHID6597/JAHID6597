@@ -1,6 +1,6 @@
 <h1 align=center>Hi 👋! I'm JAHID</h1>
 
-* 📫 Reach me at - [gmail](mailto:jahid6597@gmail.com)
+📫 Reach me at - [gmail](mailto:jahid6597@gmail.com)
 
 #### Connect With Me
 <p>
