@@ -4,7 +4,7 @@
 
 <iframe src="https://drive.google.com/file/d/1FJ68W4vPn9CGo8LkqYmRAD9qiywSH-J0/preview" width="640" height="480"></iframe>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1FJ68W4vPn9CGo8LkqYmRAD9qiywSH-J0/preview)
+[![Watch the video](https://drive.google.com/file/d/1FJ68W4vPn9CGo8LkqYmRAD9qiywSH-J0/preview)](https://drive.google.com/file/d/1FJ68W4vPn9CGo8LkqYmRAD9qiywSH-J0/preview)
 
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width=40>](mailto:jahid6597@gmail.com)
