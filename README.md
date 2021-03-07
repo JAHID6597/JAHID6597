@@ -2,6 +2,7 @@
   Hi 👋! I'm JAHID
 </h1>
 
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width=100% height=200px>
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width=40>](mailto:jahid6597@gmail.com)
 <a href="https://www.facebook.com/Jahid6597/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" width=40></a> 
