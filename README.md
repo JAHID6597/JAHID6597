@@ -1,19 +1,26 @@
 <h1 align="center">Hi 👋, I'm MD. JAHID HOSSAIN</h1>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid6597&label=Profile%20views&color=0e75b6&style=flat" alt="jahid6597" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid6597" alt="jahid6597" /></a> </p>
 
+
 <br/>
 
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   
 <a href="https://fb.com/jahid6597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahid6597" height="30" width="40" /></a>                   <a href="https://instagram.com/jahid5151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahid5151" height="30" width="40" /></a>                   <a href="https://linkedin.com/in/jahid6597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahid6597" height="30" width="40" /></a>                   <a href="https://stackoverflow.com/users/12334231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12334231" height="30" width="40" /></a>                   <a href="https://codeforces.com/profile/jahid6597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jahid6597" height="30" width="40" /></a>                   <a href="https://auth.geeksforgeeks.org/user/mdjahidhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mdjahidhossain" height="30" width="40" /></a>                   <a href="https://www.hackerrank.com/jahid6597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jahid6597" height="30" width="40" /></a>
 
 </p>
 
+
 <br/>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -23,12 +30,18 @@
 
 </p>
 
+
 <br/><br/>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid6597&show_icons=true&locale=en&layout=compact" alt="jahid6597" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid6597&show_icons=true&locale=en" alt="jahid6597" /></p>
+
 
 <br/>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid6597&" alt="jahid6597" /></p>
+
