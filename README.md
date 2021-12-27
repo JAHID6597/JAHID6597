@@ -31,10 +31,13 @@
 </p>
 
 
-<br/><br/>
+<br/>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid6597&show_icons=true&locale=en&layout=compact" alt="jahid6597" /></p>
+
+
+<br/>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid6597&show_icons=true&locale=en" alt="jahid6597" /></p>
