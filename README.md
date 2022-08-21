@@ -51,6 +51,7 @@
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> </a>
   <a href="https://mui.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="redux" width="80" height="40"/> </a>
 </p>
 
 
@@ -59,30 +60,32 @@
 <p align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://coursework.vschool.io/content/images/2015/11/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67.png" alt="express" width="100" height="40"/> </a>
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/221-2214777_nestjs-logo-hd-png-download.png" alt="nestjs" width="100" height="40"/> </a>
 </p>  
 
 
 
 ### 👉 Database
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="40"/> </a>
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/> </a>
-  
+  <a href="https://cassandra.apache.org" target="_blank" rel="noreferrer"> <img src="https://images.techhive.com/images/article/2014/06/cassandra-logo-fxd-100310326-primary.idge.jpg?auto=webp&quality=85,70" alt="cassandra" width="80" height="40"/> </a>
 </p>
 
 
 
 ### 👉 Software & Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40" />
-  <img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" width="40" height="40" />
-  <img src="https://lumpics.ru/wp-content/uploads/2017/10/chem-otkryit-json.png" width="40" height="40" />
-  <img src="https://assets-global.website-files.com/5e3177cecf36f6591e4e38cb/5f0831ae171af5db52a5beb4_netlify.jpg" width="40" height="40" />
-  <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGmNZMDOpmMQg/company-logo_200_200/0/1519905610801?e=2159024400&v=beta&t=D5lu9rTbQ_aW1ubme8GIq_QhKIm8WTiXTtoBlEHPcA8" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40" />
+  <img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="github" width="40" height="40" />
+  <img src="https://lumpics.ru/wp-content/uploads/2017/10/chem-otkryit-json.png" alt="json" width="40" height="40" />
+  <img src="https://assets-global.website-files.com/5e3177cecf36f6591e4e38cb/5f0831ae171af5db52a5beb4_netlify.jpg" alt="netlify" width="40" height="40" />
+  <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGmNZMDOpmMQg/company-logo_200_200/0/1519905610801?e=2159024400&v=beta&t=D5lu9rTbQ_aW1ubme8GIq_QhKIm8WTiXTtoBlEHPcA8" alt="heroku" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40" />
+  <img src="https://cdn.buymeacoffee.com/uploads/slider_images/2018/03/620aff9f99475361225221d28ad99cf5.png@1200w_0e.webp" alt="mockoon" width="80" height="40" />
 </p>
 
 
