@@ -14,7 +14,10 @@
 
 <br/>
 
-
+<div align="center">
+<a href="https://stardev.io/developers/JAHID6597"><img alt="Check out JAHID6597&apos;s profile on stardev.io" src="https://stardev.io/developers/JAHID6597/badge/languages/global.svg" /></a>
+</div>
+	
 ## :trophy: Git profile Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid6597&theme=algolia" alt="jahid6597" /></a> </p>
 
