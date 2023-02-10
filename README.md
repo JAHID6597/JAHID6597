@@ -15,6 +15,18 @@
 <br/>
 
 <div align="center">
+	<a href="https://stackexchange.com/users/17047843">
+		<img 
+		     src="https://stackexchange.com/users/flair/17047843.png?theme=dark" 
+		     alt="profile for Md. Jahid Hossain on Stack Exchange, a network of free, community-driven Q&amp;A sites" 
+		     title="profile for Md. Jahid Hossain on Stack Exchange, a network of free, community-driven Q&amp;A sites"
+		>
+	</a>
+</div>
+
+<br/>
+
+<div align="center">
 <a href="https://stardev.io/developers/JAHID6597"><img alt="Check out JAHID6597&apos;s profile on stardev.io" src="https://stardev.io/developers/JAHID6597/badge/languages/global.svg" /></a>
 </div>
 	
