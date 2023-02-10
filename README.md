@@ -6,13 +6,8 @@
 </p>
 
 
-<br/>
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jahid6597&label=Profile%20views&color=0e75b6&style=flat" alt="jahid6597" /> </p>
 
-
-<br/>
 
 <div align="center">
 	<a href="https://stackexchange.com/users/17047843">
