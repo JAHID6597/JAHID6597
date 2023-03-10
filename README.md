@@ -153,7 +153,8 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
-   <a href="https://github.com/jahid6597"><img alt="jahid6597's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jahid6597&custom_title=jahid6597's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/jahid6597"><img alt="jahid6597's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jahid6597&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true" /></a>
+
 <br/>
 
 
