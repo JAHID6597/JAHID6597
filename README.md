@@ -38,6 +38,19 @@
 <p align="center">                   <a href="https://www.stopstalk.com/user/profile/Jahid" target="blank"><img src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="Jahid" height="40" width="40" /></a>                   <a href="https://www.leetcode.com/jahid111" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahid111" height="40" width="40" /></a>                   <a href="https://codeforces.com/profile/jahid6597" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jahid6597" height="40" width="40" /></a>                   <a href="https://auth.geeksforgeeks.org/user/mdjahidhossain" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mdjahidhossain" height="40" width="40" /></a>                   <a href="https://www.hackerrank.com/jahid6597" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jahid6597" height="40" width="40" /></a>                   <a href="https://uhunt.onlinejudge.org/id/1000085" target="blank"><img src="https://uhunt.onlinejudge.org/images/uva.png" alt="JAHID6597" height="40" width="40" /></a>                   <a href="https://www.beecrowd.com.br/judge/en/profile/306135" target="blank"><img src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png" alt="JAHID6597" height="40" width="60" /></a>                    <a href="https://atcoder.jp/users/jahid111" target="blank"><img src="https://gyazo.com/7e3cc31d647b0485085ea10cb72450f0/max_size/400" alt="jahid111" height="40" width="40" /></a>                   </p>
 
 
+### Leetcode
+<div align="center">
+
+![LeetCode Stats](https://leetcode.card.workers.dev/jahid111?theme=auto&font=baloo&extension=null)
+</div>
+
+### Codeforces
+<div align="center">
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jahid6597)
+</div>
+
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <p align="center">                   <a href="https://fb.com/jahid6597" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahid6597" height="40" width="40" /></a>                   <a href="https://instagram.com/jahid5151" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahid5151" height="40" width="40" /></a>                   <a href="https://linkedin.com/in/jahid6597" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahid6597" height="40" width="40" /></a>                   <a href="https://stackoverflow.com/users/12334231" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12334231" height="40" width="40" /></a>                   </p>
